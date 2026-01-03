@@ -18,6 +18,10 @@ A front-end personal finance dashboard that allows users to track income, expens
 - JavaScript (ES6)
 - LocalStorage
 
+## 🌐 Live Demo
+
+Try the app live: https://jjrwn.github.io/PersonalFinanceDashboard/
+
 ## 📷 Screenshots
 <img width="959" height="473" alt="financeDashborad" src="https://github.com/user-attachments/assets/572b1a7a-2aec-40c7-b4a0-f1f80f0657fc" />
 
