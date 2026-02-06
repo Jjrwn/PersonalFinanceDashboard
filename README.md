@@ -5,29 +5,29 @@ This app helps users track income, expenses, and overall balance — with data s
 
 ## Features
 
-*Add income and expense entries
-*Automatic balance calculation
-*Transaction history list
-*Data persistence using LocalStorage
+-Add income and expense entries
+-Automatic balance calculation
+-Transaction history list
+-Data persistence using LocalStorage
+-Responsive dashboard layout
 
-*Responsive dashboard layout
 ### Purpose of Project
-*To practice react hooks like useState and useEffect
-*Apply basic calculations in a real-world scenario
-*Improve UI layout and dashboard style design
+-To practice react hooks like useState and useEffect
+-Apply basic calculations in a real-world scenario
+-Improve UI layout and dashboard style design
 
-#### Limitations / Future improvements
+### Limitations / Future improvements
 
 Current Limitation
 
-*No backend or Database
-*No user accounts 
+-No backend or Database
+-No user accounts 
 Planned improvements:
-*Category-based expense breakdown
-*Charts for monthly analysis
-*Export data feature
+-Category-based expense breakdown
+-Charts for monthly analysis
+-Export data feature
 
-##### Live Demo
+### Live Demo
 [personal-finance-dashboard-taupe.vercel.app](https://personal-finance-dashboard-taupe.vercel.app/)
 
 
