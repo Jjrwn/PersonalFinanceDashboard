@@ -40,5 +40,6 @@ Planned improvements:
 *Export data feature
 
 ##### Live Demo
+personal-finance-dashboard-taupe.vercel.app
 
 
