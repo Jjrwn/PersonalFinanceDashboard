@@ -1,16 +1,32 @@
-# React + Vite
+# Personal Finance Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive personal finance tracker built with React and Tailwind CSS.
+This app helps users track income, expenses, and overall balance — with data saved locally using Local Storage.
 
-Currently, two official plugins are available:
+## Features
+*Add income and expense entries
+*Automatic balance calculation
+*Transaction history list
+*Data persistence using LocalStorage
+*Responsive dashboard layout
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Purpose of Project
+*To practice react hooks like useState and useEffect
+*Apply basic calculations in a real-world scenario
+*Improve UI layout and dashboard style design
 
-## React Compiler
+#### Limitations / Future improvements
+Current Limitation
+*No backend or Database
+*No user accounts 
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Planned improvements:
+*Category-based expense breakdown
+*Charts for monthly analysis
+*Export data feature
 
-## Expanding the ESLint configuration
+##### Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##### Live Demo
+
+
